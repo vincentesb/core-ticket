@@ -1,0 +1,10 @@
+bin
+Dockerfile
+app.local.env
+
+.air.toml
+tmp
+
+.idea/sonarlint
+.vscode/launch.json
+__debug_bin2595816531.exe
